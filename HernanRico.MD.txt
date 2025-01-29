@@ -1,0 +1,22 @@
+¡Hola, soy [Hernán]!
+## Sobre mí
+- **Nombre completo:** [Hernán Rico]
+- **Apodo:** [Nancho]
+- **Edad:** [19]
+- **Lugar de origen:** [Armenia]
+- **Con quién vives:** [mi papa]
+- **Hobby favorito:** [tennis]
+- **Comida preferida:** [carne]
+- **Lugar que te gustaría visitar:** [Australia]
+## Mi familia
+- **Personas importantes en mi vida:**
+- [Son importantes mi mama hermana y sobrina]
+- **Algo que valoro de mi familia:**
+- [la union]
+## Mis metas
+- **Metas a corto plazo:**
+- [tener buen promedio en el semestre]
+- **Metas a largo plazo:**
+- [graduarme]
+## Una frase que me define
+- "*[el trabajo duro es inevitable, abrazalo]*"
